@@ -1,0 +1,9 @@
+GET http://localhost:3000/books
+
+POST http://localhost:3000/books
+
+{
+    "title": "Война и мир",
+    "description": "Очень интересная книга",
+    "author": "Л.Н. Толстой"
+}
